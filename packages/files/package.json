@@ -29,8 +29,8 @@
   },
   "dependencies": {
     "@standardnotes/common": "^1.50.0",
-    "@standardnotes/encryption": "workspace:*",
-    "@standardnotes/models": "workspace:*",
+    "@standardnotes/encryption": "1.1.0",
+    "@standardnotes/models": "1.1.0",
     "@standardnotes/responses": "workspace:*",
     "@standardnotes/sncrypto-common": "workspace:*",
     "@standardnotes/utils": "workspace:*",
