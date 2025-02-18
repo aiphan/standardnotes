@@ -27,7 +27,7 @@
   },
   "dependencies": {
     "@standardnotes/common": "^1.50.0",
-    "@standardnotes/files": "workspace:*",
+    "@standardnotes/files": "1.0.1",
     "@standardnotes/utils": "workspace:*",
     "@types/wicg-file-system-access": "^2023.10.4",
     "reflect-metadata": "^0.1.13"
