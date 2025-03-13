@@ -111,7 +111,7 @@
     "@lexical/headless": "0.16.0",
     "@lexical/link": "0.16.0",
     "@lexical/list": "0.16.0",
-    "@lexical/react": "0.16.0",
+    "@lexical/react": "0.27.2",
     "@lexical/rich-text": "0.16.0",
     "@lexical/utils": "0.16.0",
     "@radix-ui/react-slot": "^1.0.1",
