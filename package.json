@@ -49,7 +49,7 @@
     "@lexical/list@0.16.0": "patch:@lexical/list@npm:0.16.0#.yarn/patches/@lexical-list-npm-0.16.0-8f91da4ad5.patch"
   },
   "dependencies": {
-    "@standardnotes/snjs": "workspace:*"
+    "@standardnotes/snjs": "2.0.4"
   },
   "devDependencies": {
     "@babel/core": "^7.22.9",
