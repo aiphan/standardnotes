@@ -33,7 +33,7 @@
     "@standardnotes/models": "workspace:*",
     "@standardnotes/responses": "workspace:*",
     "@standardnotes/sncrypto-common": "workspace:*",
-    "@standardnotes/utils": "workspace:*",
+    "@standardnotes/utils": "1.1.0",
     "reflect-metadata": "^0.1.13"
   }
 }
