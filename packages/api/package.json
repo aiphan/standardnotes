@@ -39,7 +39,7 @@
     "@standardnotes/domain-core": "^1.40.0",
     "@standardnotes/models": "workspace:*",
     "@standardnotes/responses": "workspace:*",
-    "@standardnotes/utils": "workspace:*",
+    "@standardnotes/utils": "1.1.0",
     "reflect-metadata": "^0.1.13"
   }
 }
