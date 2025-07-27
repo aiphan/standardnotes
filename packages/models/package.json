@@ -24,7 +24,7 @@
     "@standardnotes/features": "workspace:*",
     "@standardnotes/responses": "workspace:*",
     "@standardnotes/sncrypto-common": "workspace:^",
-    "@standardnotes/utils": "workspace:^",
+    "@standardnotes/utils": "1.1.0",
     "lodash": "^4.17.21"
   },
   "devDependencies": {
