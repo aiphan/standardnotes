@@ -33,6 +33,6 @@
   },
   "dependencies": {
     "@mozilla/readability": "^0.4.2",
-    "@standardnotes/snjs": "workspace:^"
+    "@standardnotes/snjs": "2.0.4"
   }
 }
