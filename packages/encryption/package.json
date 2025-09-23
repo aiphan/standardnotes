@@ -30,10 +30,10 @@
   "dependencies": {
     "@standardnotes/common": "^1.50.0",
     "@standardnotes/domain-core": "^1.40.0",
-    "@standardnotes/models": "workspace:*",
+    "@standardnotes/models": "1.1.0",
     "@standardnotes/responses": "workspace:*",
     "@standardnotes/sncrypto-common": "workspace:*",
-    "@standardnotes/utils": "workspace:*",
+    "@standardnotes/utils": "1.1.0",
     "reflect-metadata": "^0.1.13"
   }
 }
