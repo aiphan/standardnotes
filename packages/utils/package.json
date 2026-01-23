@@ -27,7 +27,7 @@
   "dependencies": {
     "@standardnotes/common": "^1.50.0",
     "dompurify": "^2.4.1",
-    "lodash": "^4.17.21",
+    "lodash": "^4.17.23",
     "reflect-metadata": "^0.1.13"
   },
   "devDependencies": {
