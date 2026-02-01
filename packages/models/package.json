@@ -22,9 +22,9 @@
     "@standardnotes/common": "^1.50.0",
     "@standardnotes/domain-core": "^1.40.0",
     "@standardnotes/features": "workspace:*",
-    "@standardnotes/responses": "workspace:*",
+    "@standardnotes/responses": "1.1.0",
     "@standardnotes/sncrypto-common": "workspace:^",
-    "@standardnotes/utils": "workspace:^",
+    "@standardnotes/utils": "1.1.0",
     "lodash": "^4.17.21"
   },
   "devDependencies": {
